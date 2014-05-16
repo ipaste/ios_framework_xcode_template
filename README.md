@@ -1,4 +1,4 @@
 yuntop_xcode_templates
 ======================
 
-Xcode templates for easier YunTOP development
+An Xcode template that sets up the environment for ios framework development
